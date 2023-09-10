@@ -21,5 +21,5 @@ document.addEventListener("DOMContentLoaded", function () {
 
     
     updateTime();
-    //setTimeout(updateTime,1);
+    setTimeout(updateTime,1);
 });
